@@ -11,11 +11,11 @@ $ sudo su
 
 $ git clone https://github.com/aditya156prog/NEWHACK5
 
-$ cd Saphyra-DDoS
+$ cd NEWHACK5
 
-$ chmod +x saphyra.py
+$ chmod +x newhack5.py
 
-$ python saphyra.py
+$ python newhack5.py
 If it doesn't work :
 Try
 
@@ -25,8 +25,8 @@ Try
 
  $sudo apt upgrade
 # Usage :
-$ python saphyra.py https://example.com
-Disclaimer :
+$ python newhack5.py https://example.com
+# Legal Disclaimer :
 Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HAVE PERMISSION FROM
 
 Visit: https://hackspiration.unaux.com for more cyber security content
